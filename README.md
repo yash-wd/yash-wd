@@ -8,7 +8,9 @@
 
 Andhra Pradesh, India · Remote-friendly
 
-[![Open to freelance](https://img.shields.io/badge/●_Open_to_freelance_work-2ee6a0?style=flat-square&labelColor=0a0b0f)](https://yaseen.ycnlabs.com/#contact)
+[![Open to engineering roles](https://img.shields.io/badge/●_Open_to_engineering_roles-2ee6a0?style=flat-square&labelColor=0a0b0f)](https://in.linkedin.com/in/yaseen-sd)
+
+**Frontend · Full-Stack · Product Engineering** &nbsp;—&nbsp; also open to select freelance projects
 
 [![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
 
@@ -39,16 +41,16 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 ✅ &nbsp; **Quality bar** — if it isn't tested in CI, it isn't done<br/>
 🧱 &nbsp; **Engineer's mindset** — civil-engineering roots; I build software to last<br/>
 ⚡ &nbsp; **Performance-first** — fast, accessible, dependency-light by default<br/>
-🤝 &nbsp; **Open to** — freelance, e-commerce &amp; full-stack builds
+🤝 &nbsp; **Open to** — full-time engineering roles, plus select freelance work
 
 ### 🚀 Featured projects
 
-| Project | What it is | Links |
+| Project | What I built &amp; the outcome | Links |
 | --- | --- | --- |
-| **Learn JavaScript** | Free, open-source course platform — 56 read-then-run lessons + 8 build-along projects. Zero dependencies; every lesson's example is executed and verified in CI so the docs can't drift. | [Live](https://js.ycnlabs.com/) · [Code](https://github.com/yash-wd/learn-javascript) |
-| **Homapp** | MERN home-maintenance platform with service discovery and a booking flow on a structured MongoDB model. | [Live](https://homapp.app/) |
-| **Inkprog Technologies** | Clean, service-led business website built in React — fast and fully responsive. | [Live](https://inkprog.com/) |
-| **Portfolio** | This site — hand-built HTML/CSS/JS, zero runtime deps, Lighthouse 99–100, security-headed and CI-gated. | [Live](https://yaseen.ycnlabs.com/) · [Code](https://github.com/yash-wd/portfolio) |
+| **Learn JavaScript** | Designed and shipped a zero-dependency, open-source course platform — 56 lessons + 8 build-along projects — with a CI pipeline that executes and asserts **every** lesson's example, so the docs can never drift from real behaviour. | [Live](https://js.ycnlabs.com/) · [Code](https://github.com/yash-wd/learn-javascript) |
+| **Portfolio** | Built and maintain a performance-obsessed personal site — hand-coded, zero runtime dependencies, **99–100 Lighthouse** across performance/accessibility/best-practices/SEO, with security headers and CI quality gates. | [Live](https://yaseen.ycnlabs.com/) · [Code](https://github.com/yash-wd/portfolio) |
+| **Homapp** | Built a MERN home-maintenance platform end-to-end — service discovery and a booking flow on a structured MongoDB data model. | [Live](https://homapp.app/) |
+| **Inkprog Technologies** | Designed and delivered a fast, fully responsive React business site for a tech-services company. | [Live](https://inkprog.com/) |
 
 ### 🛠️ Tech
 
@@ -58,21 +60,14 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 
 </div>
 
-### 📊 GitHub
+### 📈 Contributions
 
 <div align="center">
-
-<img height="165" alt="Yaseen Sayyad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yash-wd&show_icons=true&hide_border=true&bg_color=060608&title_color=4d7cfe&icon_color=22d3ee&text_color=aab0c0&hide=contribs" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-wd&layout=compact&hide_border=true&bg_color=060608&title_color=4d7cfe&text_color=aab0c0&langs_count=8" />
-
-<img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=yash-wd&hide_border=true&background=060608&ring=4d7cfe&fire=22d3ee&currStreakNum=f3f4f8&sideNums=f3f4f8&currStreakLabel=4d7cfe&sideLabels=aab0c0&dates=7c8290&stroke=4d7cfe" />
-
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-wd/yash-wd/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-wd/yash-wd/output/github-snake.svg" />
-  <img alt="My contribution graph as a snake game" src="https://raw.githubusercontent.com/yash-wd/yash-wd/output/github-snake.svg" />
+  <img alt="My GitHub contribution graph rendered as a snake game" src="https://raw.githubusercontent.com/yash-wd/yash-wd/output/github-snake.svg" />
 </picture>
 
 </div>
