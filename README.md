@@ -8,10 +8,11 @@
 
 Andhra Pradesh, India · Available for freelance work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yaseen.ycnlabs.com-4d7cfe?style=flat-square)](https://yaseen.ycnlabs.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yaseen--sd-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yaseen-sd)
-[![X](https://img.shields.io/badge/X-@YaseenSd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YaseenSd)
-[![Email](https://img.shields.io/badge/Email-sdyaseen6@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sdyaseen6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yaseen-sd)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YaseenSd)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ya.c.n/)
+[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdyaseen6@gmail.com)
 
 </div>
 
@@ -39,18 +40,11 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 
 ### 🛠️ Tech
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<div align="center">
+
+[![My tech stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,html,css,git,cloudflare,githubactions)](https://yaseen.ycnlabs.com/)
+
+</div>
 
 ### 📊 GitHub
 
@@ -63,13 +57,13 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 
 ### 🤝 Connect
 
-[![Website](https://img.shields.io/badge/Website-yaseen.ycnlabs.com-4d7cfe?style=flat-square)](https://yaseen.ycnlabs.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yaseen--sd-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yaseen-sd)
-[![GitHub](https://img.shields.io/badge/GitHub-yash--wd-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yash-wd/)
-[![X](https://img.shields.io/badge/X-@YaseenSd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YaseenSd)
-[![Instagram](https://img.shields.io/badge/Instagram-ya.c.n-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ya.c.n/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918341226694)
-[![Email](https://img.shields.io/badge/Email-sdyaseen6@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sdyaseen6@gmail.com)
+[![Website](https://img.shields.io/badge/-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yaseen-sd)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-wd/)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YaseenSd)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ya.c.n/)
+[![WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918341226694)
+[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdyaseen6@gmail.com)
 
 <div align="center">
 <sub>Always happy to talk about a project — reach out via any of the above.</sub>
