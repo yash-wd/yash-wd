@@ -13,7 +13,7 @@ Andhra Pradesh, India · Available for freelance work
 <p>
   <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="44" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/YaseenSd"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="44" /></a>
+  <a href="https://x.com/YaseenSd"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" height="44" /></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="44" /></a>
   &nbsp;&nbsp;
@@ -61,6 +61,8 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 <img height="165" alt="Yaseen Sayyad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yash-wd&show_icons=true&hide_border=true&bg_color=060608&title_color=4d7cfe&icon_color=22d3ee&text_color=aab0c0&hide=contribs" />
 <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-wd&layout=compact&hide_border=true&bg_color=060608&title_color=4d7cfe&text_color=aab0c0&langs_count=8" />
 
+<img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=yash-wd&hide_border=true&background=060608&ring=4d7cfe&fire=22d3ee&currStreakNum=f3f4f8&sideNums=f3f4f8&currStreakLabel=4d7cfe&sideLabels=aab0c0&dates=7c8290&stroke=4d7cfe" />
+
 </div>
 
 ### 🤝 Connect
@@ -74,7 +76,7 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
   &nbsp;&nbsp;
   <a href="https://github.com/yash-wd/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="44" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/YaseenSd"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="44" /></a>
+  <a href="https://x.com/YaseenSd"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" height="44" /></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="44" /></a>
   &nbsp;&nbsp;
