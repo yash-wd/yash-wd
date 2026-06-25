@@ -8,7 +8,7 @@
 
 Andhra Pradesh, India · Remote-friendly
 
-[![Open to work](https://img.shields.io/badge/●_Open_to_work-Engineering_roles-2ee6a0?style=for-the-badge&labelColor=0a0b0f)](https://in.linkedin.com/in/yaseen-sd)
+[![Open to Software Engineer roles](https://img.shields.io/badge/●_Open_to_Software_Engineer_roles-Available-2ee6a0?style=for-the-badge&labelColor=0a0b0f)](https://in.linkedin.com/in/yaseen-sd)
 
 **Frontend · Full-Stack · Product Engineering** &nbsp;—&nbsp; also open to select freelance projects
 
