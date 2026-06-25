@@ -8,11 +8,19 @@
 
 Andhra Pradesh, India · Available for freelance work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yaseen-sd)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YaseenSd)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ya.c.n/)
-[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdyaseen6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
+
+<p>
+  <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/YaseenSd"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/918341226694"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="38" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:sdyaseen6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="44" /></a>
+</p>
 
 </div>
 
@@ -57,13 +65,25 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 
 ### 🤝 Connect
 
-[![Website](https://img.shields.io/badge/-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yaseen-sd)
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-wd/)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YaseenSd)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ya.c.n/)
-[![WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918341226694)
-[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdyaseen6@gmail.com)
+<div align="center">
+
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
+
+<p>
+  <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yash-wd/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/YaseenSd"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/918341226694"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="38" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:sdyaseen6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="44" /></a>
+</p>
+
+</div>
 
 <div align="center">
 <sub>Always happy to talk about a project — reach out via any of the above.</sub>
