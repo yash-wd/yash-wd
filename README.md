@@ -34,10 +34,12 @@ From building structures to building software. After my D.C.E I spent years as a
 
 I care about **performance, accessibility, and clean, dependency-light code**. My portfolio is hand-built with zero runtime dependencies, scores **99–100 across Lighthouse** (Performance · Accessibility · Best-Practices · SEO), and ships behind **CI quality gates** — Lighthouse CI, pa11y (WCAG 2.1 AA) and HTML validation run on every push.
 
-**Currently** building MERN web apps and fast, content-driven sites.<br/>
-**Focused on** deepening backend &amp; system design through real, shipped projects.<br/>
-**Philosophy** — measured quality: if it isn't tested in CI, it isn't done.<br/>
-**Open to** freelance, e-commerce and full-stack builds.
+⚛️ &nbsp; **Currently** — building MERN web apps and fast, content-driven sites<br/>
+⚙️ &nbsp; **Going deeper** — backend &amp; system design through real, shipped projects<br/>
+✅ &nbsp; **Quality bar** — if it isn't tested in CI, it isn't done<br/>
+🧱 &nbsp; **Engineer's mindset** — civil-engineering roots; I build software to last<br/>
+⚡ &nbsp; **Performance-first** — fast, accessible, dependency-light by default<br/>
+🤝 &nbsp; **Open to** — freelance, e-commerce &amp; full-stack builds
 
 ### 🚀 Featured projects
 
