@@ -15,15 +15,15 @@ Andhra Pradesh, India · Remote-friendly
 [![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
 
 <p>
-  <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="44" /></a>
+  <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="22" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/YaseenSd"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" height="44" /></a>
+  <a href="https://x.com/YaseenSd"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" height="22" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="44" /></a>
+  <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="22" /></a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/918341226694"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="38" /></a>
+  <a href="https://wa.me/918341226694"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="19" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:sdyaseen6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="44" /></a>
+  <a href="mailto:sdyaseen6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="22" /></a>
 </p>
 
 </div>
@@ -79,17 +79,17 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 [![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
 
 <p>
-  <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="44" /></a>
+  <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="22" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/yash-wd/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="44" /></a>
+  <a href="https://github.com/yash-wd/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="22" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/YaseenSd"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" height="44" /></a>
+  <a href="https://x.com/YaseenSd"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" height="22" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="44" /></a>
+  <a href="https://www.instagram.com/ya.c.n/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="22" /></a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/918341226694"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="38" /></a>
+  <a href="https://wa.me/918341226694"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="19" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:sdyaseen6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="44" /></a>
+  <a href="mailto:sdyaseen6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="22" /></a>
 </p>
 
 </div>
