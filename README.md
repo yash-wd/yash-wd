@@ -6,7 +6,9 @@
 
 **Full-Stack (MERN) Developer — crafting fast, modern web experiences from idea to launch.**
 
-Andhra Pradesh, India · Available for freelance work
+Andhra Pradesh, India · Remote-friendly
+
+[![Open to freelance](https://img.shields.io/badge/●_Open_to_freelance_work-2ee6a0?style=flat-square&labelColor=0a0b0f)](https://yaseen.ycnlabs.com/#contact)
 
 [![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
 
@@ -62,6 +64,14 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-wd&layout=compact&hide_border=true&bg_color=060608&title_color=4d7cfe&text_color=aab0c0&langs_count=8" />
 
 <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=yash-wd&hide_border=true&background=060608&ring=4d7cfe&fire=22d3ee&currStreakNum=f3f4f8&sideNums=f3f4f8&currStreakLabel=4d7cfe&sideLabels=aab0c0&dates=7c8290&stroke=4d7cfe" />
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-wd/yash-wd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-wd/yash-wd/output/github-snake.svg" />
+  <img alt="My contribution graph as a snake game" src="https://raw.githubusercontent.com/yash-wd/yash-wd/output/github-snake.svg" />
+</picture>
 
 </div>
 
