@@ -1,8 +1,9 @@
 <div align="center">
 
-<a href="https://yaseen.ycnlabs.com/"><img src="https://yaseen.ycnlabs.com/assets/images/logo.png" width="64" alt="Yaseen Sayyad" /></a>
-
-# Yaseen Sayyad
+<h1>
+  <a href="https://yaseen.ycnlabs.com/"><img src="https://yaseen.ycnlabs.com/assets/images/logo.png" width="88" alt="Yaseen Sayyad" /></a><br>
+  Yaseen Sayyad
+</h1>
 
 **Full-Stack (MERN) Developer — crafting fast, modern web experiences from idea to launch.**
 
@@ -12,7 +13,7 @@ Andhra Pradesh, India · Remote-friendly
 
 **Frontend · Full-Stack · Product Engineering** &nbsp;—&nbsp; also open to select freelance projects
 
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEV2cnIONTYEGhw9ZGUVVFVcj5B4srNEeHkLERGp1NQsTE0KHx8EDg8JHh80Xl7L%2FPzWDy%2BMAAAAD3RSTlMB%2Ff79%2Ffv6%2FC73%2BVmY1KdB1V0BAAAACXBIWXMAAAsSAAALEgHS3X78AAAA9UlEQVQY02NgYOA2Lg8NY3iWOXMCAwjwCTqXh3GUpc2HcHlEBAXTOC4K1kO5wguV0hgeL7KHKV6sCFQcBOXyCAoDuWYwLvdFYcVQBJdho7BiKV6uKTJXXMmVG24ywxZhI62%2BMDi3V7BY9mlZkCWUyyMoZWxcCudyXxR0cTEPskyAcBn2KikpuReZwbh9l5SUnOFcvlWrTIVcikyh3C4pF3chRwQX6ConRyPzABhXCcQ1hnJ7hReJCzouKnkAdYZTldJiFRGXDVBniGhZLRIRd4Zay3HQUVDEJcQDymXYc1FQSMW3Acbl2HPmzJkdDHDA0dEBYQAAUopMFLwCzDkAAAAASUVORK5CYII%3D)](https://yaseen.ycnlabs.com/)
 
 <p>
   <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="22" /></a>
@@ -76,7 +77,7 @@ I care about **performance, accessibility, and clean, dependency-light code**. M
 
 <div align="center">
 
-[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaseen.ycnlabs.com/)
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-4d7cfe?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEV2cnIONTYEGhw9ZGUVVFVcj5B4srNEeHkLERGp1NQsTE0KHx8EDg8JHh80Xl7L%2FPzWDy%2BMAAAAD3RSTlMB%2Ff79%2Ffv6%2FC73%2BVmY1KdB1V0BAAAACXBIWXMAAAsSAAALEgHS3X78AAAA9UlEQVQY02NgYOA2Lg8NY3iWOXMCAwjwCTqXh3GUpc2HcHlEBAXTOC4K1kO5wguV0hgeL7KHKV6sCFQcBOXyCAoDuWYwLvdFYcVQBJdho7BiKV6uKTJXXMmVG24ywxZhI62%2BMDi3V7BY9mlZkCWUyyMoZWxcCudyXxR0cTEPskyAcBn2KikpuReZwbh9l5SUnOFcvlWrTIVcikyh3C4pF3chRwQX6ConRyPzABhXCcQ1hnJ7hReJCzouKnkAdYZTldJiFRGXDVBniGhZLRIRd4Zay3HQUVDEJcQDymXYc1FQSMW3Acbl2HPmzJkdDHDA0dEBYQAAUopMFLwCzDkAAAAASUVORK5CYII%3D)](https://yaseen.ycnlabs.com/)
 
 <p>
   <a href="https://in.linkedin.com/in/yaseen-sd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="22" /></a>
